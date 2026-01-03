@@ -1,18 +1,35 @@
-# iOS Development
+# BECKER Automation & Design
 
-Building native iOS applications with Swift and SwiftUI.
+Building digital experiences that merge elegant design with powerful automation.
 
-## Projects
+---
 
-**Bcam** - Camera application for iOS
-**Btime** - Time tracking application for iOS  
-**Bnote** - Note-taking application for iOS
+### What I Do
 
-## Stack
+**Web Design** — Minimalist, responsive websites with noir aesthetics
+**iOS Apps** — Native Swift applications with intuitive UX
+**n8n Automation** — Workflow automation & system integration
 
-- Swift
-- SwiftUI
-- Xcode
-- Git
+---
 
-Currently focused on improving UX patterns and app architecture.
+### iOS Apps
+
+| App | Description |
+|-----|-------------|
+| **Bcam** | Camera application with custom filters |
+| **Bnote** | Minimalist note-taking app |
+| **Bseed** | Productivity tool |
+
+---
+
+### Tech Stack
+
+```
+Swift  ·  SwiftUI  ·  Xcode  ·  n8n  ·  HTML/CSS  ·  JavaScript
+```
+
+---
+
+### Links
+
+[Portfolio](https://tb-2407.github.io/BECKER-Website/) · [Bcam Privacy](https://github.com/tb-2407/Bcam-Legal) · [Bnote Privacy](https://github.com/tb-2407/Bnote-Legal)
